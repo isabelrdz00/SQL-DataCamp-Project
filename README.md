@@ -16,7 +16,8 @@ I used SQL to:
 - SCS (social connectedness) → tosc
 - ASISS (acculturative stress) → toas
 - Sort the final results in descending order of stay length
-
+  
+Screenshots of the project
 <img width="1285" height="570" alt="Screenshot 2025-11-28 at 10 51 00 a m" src="https://github.com/user-attachments/assets/dd5794a0-e02c-4d98-bfdb-5ef9fa18a60c" />
 
 <img width="1254" height="636" alt="Screenshot 2025-11-28 at 10 51 33 a m" src="https://github.com/user-attachments/assets/2f786a24-87ed-424d-beeb-24f5bf3ae0a7" />
