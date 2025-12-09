@@ -1,4 +1,4 @@
-# SQL-DataCamp-Project
+# SQL-DataCamp-Project 1
 
 ## 🧠 Project Overview
 
